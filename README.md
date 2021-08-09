@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chemnitz.
 - 🌱 I’m currently learning in the pulblic outside pools.
 - 💞️ I’m looking to  ... the pc. 
-- 📫 How to reach me ... email.
+- 📫 How to reach me ... hontz2@spinnes-netz.de.
 
 <!---
 hontz1/hontz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
